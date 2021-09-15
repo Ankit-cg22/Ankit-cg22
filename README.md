@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit.</h1>
-<h3 align="center">Building new things excite me.</h3>
+<h3 align="center">Always excited about building new things.</h3>
 
 - 🔭 I’m currently working on [my MERN blog project , DOTS.](https://github.com/Ankit-cg22/MERN-Blog-App)
 
