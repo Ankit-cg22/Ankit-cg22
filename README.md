@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my MERN blog project , DOTS.](https://github.com/Ankit-cg22/MERN-Blog-App)
 
-- 🌱 I’m currently learning **ReactJS testing with JEST.**
+- 🌱 I’m currently learning **ReactJS testing with Jest.**
 
 - 💬 Ask me about **React , c , c++ , python.**
 
